@@ -1,0 +1,41 @@
+# Void Linux Slim Theme 1.0.0 by DirectorX
+# Based on November by Arthur Marino (@ArthurMarino) URL: http://artt-m.deviantart.com/
+
+# Messages (ie: shutdown)
+msg_color               #ffffff
+msg_font                DejaVu Sans:size=10
+msg_x                   20
+msg_y                   20
+msg_shadow_color #000000
+msg_shadow_xoffset 1
+msg_shadow_yoffset 1
+
+# valid values: stretch, tile, center
+background_style        stretch
+background_color        #000000
+
+# Login Name
+username_font		Droid Sans:size=13
+username_color		#ffffff
+
+password_x		50%
+password_y		78%
+
+username_x		50%
+username_y		79%
+
+username_msg		Log-in	
+password_msg		Enter The Void
+
+# Input controls
+input_panel_x           50%
+input_panel_y           50%
+
+input_name_x            50
+input_name_y            251
+input_pass_x            50
+input_pass_y            251
+
+input_font              Verdana:size=15
+input_color		#98a0a7
+
